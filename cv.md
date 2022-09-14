@@ -24,7 +24,20 @@ At the moment I am 19 years old. I am a 3rd year student at Tomsk State Universi
 * *Adobe photoshop (advanced level knowledge)*
 * *Figma*
 * *Editors: WebStorm, Visual Studio Code, Visual Studio*
-
+## Code example
+---
+    function predictAge(age1,age2,age3,age4,age5,age6,age7,age8){
+        for(let i = 0; i < arguments.length; i++) {
+            arguments[i] *= arguments[i];
+        }
+        let value = 0;
+        for(let i = 0; i < arguments.length; i++) {
+            value += arguments[i];
+        }
+        value = Math.sqrt(value);
+        value = Math.floor(value /= 2);
+        return value;
+    }
 
 
 
