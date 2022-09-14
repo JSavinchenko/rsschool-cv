@@ -38,6 +38,15 @@ At the moment I am 19 years old. I am a 3rd year student at Tomsk State Universi
         value = Math.floor(value /= 2);
         return value;
     }
+## Education
+---
+* *National Research Tomsk State University*
+
+Faculty "Institute of Applied Mathematics and Computer Science", direction "Applied Informatics", module "Fundamental Informatics" (2020-2024)
+## Languages
+---
+* *Russian (native)*
+* *English (B2-C1)*
 
 
 
